@@ -1,16 +1,35 @@
-### Hi there 👋
+<h2> Hi, I'm z3r0yu!</h2>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=zer0yu&theme=vue&show_icons=true" width="380">
+<p><em>Security Researcher and Bugbounty Hunter <br>
+  CTFer and Whitehat <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**Filatowv/Filatowv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub z3r0yu](https://img.shields.io/github/followers/zer0yu?label=follow%20github&style=flat-square)](https://github.com/zer0yu)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### More about me...
+
+```go
+package main
+
+type Me struct{
+  Pronouns string
+  Code string
+  Job string
+  BestAndFavoriteSkill string
+  SweetHeart string
+}
+
+func main() {
+  me := &Me{
+    Job: "Security Researcher and RedTeam",
+    Prononus: "He/Him",
+    SweetHeart: "01",
+    Code: "PHP and Go and Python and Everythings",
+    BestAndFavoriteSkill: "Web Hacking :D"
+  }
+  _ = me
+}
+```
+---
