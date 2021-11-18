@@ -3,9 +3,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/rdma0nDFZMR32/giphy.gif" width="40%" align="right">
   <br><br>
-  <samp>
+<!--   <samp>
     Hey!! I'm Sarthak Singhal :wave:
     <br><br>
     I work as a Web :globe_with_meridians: developer!
-  </samp>
+  </samp> -->
 </p>
