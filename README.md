@@ -1,17 +1,12 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/rdma0nDFZMR32/giphy.gif" width="40%" align="right">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
   <br><br>
   <samp>
     Hi , my name is Filatov Il'ya   :wave:
     <br><br>
     I work as a Software :globe_with_meridians: Developer!
   </samp>
-  <br /> <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maranimoataz&show_icons=true&theme=merko)
-<br/> <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maranimoataz&langs_count=8&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <p align="center"> 
